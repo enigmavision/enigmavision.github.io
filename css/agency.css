@@ -240,6 +240,7 @@ header {
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
+  margin-bottom: 300px;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -282,8 +283,8 @@ header .intro-text .intro-heading {
     line-height: 5px;
     margin-top: 20px;
     max-height: 20px;
-    margin-bottom: 55px;
-    padding-bottom: 30px;
+    margin-bottom: 5px;
+    padding-bottom: 50px;
 
 }
   #intro-heading3{
